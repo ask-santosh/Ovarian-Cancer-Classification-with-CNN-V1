@@ -1,4 +1,4 @@
 # Ovarian-Cancer-Classification-with-CNN-V1
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/ask-santosh/Ovarian-Cancer-Classification-with-CNN-V1/blob/main/Test%20Image.png)https://github.com/ask-santosh/Ovarian-Cancer-Classification-with-CNN-V1/blob/main/Test%20Image.png?raw=true)
